@@ -1,0 +1,23 @@
+{
+    "name": "pr_pw",
+    "version": "1.0.0",
+    "description": "Proyecto_Aplicacion_Tareas",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js"
+    },
+    "keywords": [],
+    "author": "Wendy German_Diego Osorio_Dorival Pichamba",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.0.1",
+        "express": "^4.17.1",
+        "hbs": "^4.1.0",
+        "mongoose": "^5.8.10",
+        "morgan": "^1.9.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
