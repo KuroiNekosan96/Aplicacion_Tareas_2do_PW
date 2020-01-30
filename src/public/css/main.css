@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Jisman';
+    src: url('/fuentes/Jisman.ttf');
+}
+
+.logo {
+    width: 75%;
+}
+
+h1#nomb {
+    font-family: 'Jisman';
+    font-size: 50px;
+}
+
+p#cats {
+    font-family: 'Jisman';
+    font-size: 35px;
+}
+
+strong {
+    font-family: 'Jisman';
+    font-size: 30px;
+}
+
+input {
+    font-family: 'Jisman';
+    font-size: 60px;
+}
+
+button {
+    font-family: 'Jisman';
+    font-size: 30px;
+}
+
+a {
+    font-family: 'Jisman';
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Jisman';
+    font-size: 30px;
+}
+
+textarea {
+    font-family: 'Jisman';
+    font-size: 60px;
+}
+
+h1 {
+    font-family: 'Jisman';
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Jisman';
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Jisman';
+    font-size: 30px;
+}
